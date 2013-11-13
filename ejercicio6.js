@@ -1,5 +1,13 @@
+// En la url va el primer parametros que especifica consola o web segun la version
+// El ultimo parametros será la ciudad, el penúltimo será el pais
+// Si no se especifica el país, se muestran las posibilidades junto con el pais para componer la url correcta
+// Si se especifica bien el pais se muestran los resultados
+
 var http=require('http');   // Servidor 
 var fs = require('fs');		// Acceso al sistema de archivos
+
+var API_WU = "a4a9252c6a17c109";
+
 
 var cabecera_html = "", pie_html = "";     	// Cabecera y pie html
 var chk_cabecera = true, chk_pie = true;	// Comprueba si están los ficheros de cabecera y pie
