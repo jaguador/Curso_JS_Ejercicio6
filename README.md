@@ -32,4 +32,5 @@ Gracias por utilizar nuestros servicios. Que pase un buen dia!</i><br/>
 </p>
 </br>
 <hr>
-<p><b>Julio Aguado Robles<br/>Usuario GitHub: jaguador</br>Alumno: al10788</b></p>
+<p><b>Julio Aguado Robles<br/>
+Usuario GitHub: jaguador</br> Alumno: al10788</b></p>
