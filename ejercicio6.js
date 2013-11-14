@@ -1,7 +1,7 @@
 var https =require('https');   // Servidor 
 
 // API Key de wunderground.com
-var API_WU = "a4a9252c6a17c109";    
+var API_WU = "xxx";    
 
 // localizacion que se pasa como parametro
 // Si no se indica localizacion por defecto es Granada
