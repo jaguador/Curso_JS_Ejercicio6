@@ -10,7 +10,7 @@ var localizacion = process.argv[2]?process.argv[2]:'ES/Granada';
 // Opciones de la peticion
 var options = {
     host: 'api.wunderground.com',   
-    path: '/api/a4a9252c6a17c109/conditions/lang:SP/q/'+localizacion+'.json',
+    path: '/api/'+API_WU+'/conditions/lang:SP/q/'+localizacion+'.json',
     method: 'GET'
 };
 
